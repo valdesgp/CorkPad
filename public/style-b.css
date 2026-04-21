@@ -696,9 +696,8 @@ animation: bounce 2s ease infinite .6s, color-change 4.4s infinite;
   background-color: rgba(255, 255, 255, 0.522);
   color: rgba(24, 24, 24, 0.987);
   border-radius: 4px;
-  border-color: rgba(24, 24, 24, 0.159);
-  border-width: 2px;
-  box-shadow: 1px 1px 3px rgba(53, 53, 53, 0.063);
+  border-color: rgba(24, 24, 24, 0.05);
+  border-width: 0.5px;
 }
 .font-form-light{
   background-color: rgba(255, 255, 255, 0.522);
